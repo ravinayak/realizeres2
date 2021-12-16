@@ -1,4 +1,4 @@
-class realizeres1::filecopy{
+class realizeres2::filecopy{
   include virtualres
   file { '/etc/filecopyrealizeres2':
     ensure => file,
