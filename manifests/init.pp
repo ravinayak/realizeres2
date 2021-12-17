@@ -1,3 +1,3 @@
 class realizeres2 {
-  include realizeres2::filecopy
+  include realizeres1::filecopy
 }
